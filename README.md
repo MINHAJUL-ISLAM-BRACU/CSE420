@@ -14,6 +14,8 @@ Lab 1: Activity List
 
 Fig 1: Lexical Analyzer
 
+
+
 Input:
 int a, b, c;
 float d, e;
@@ -29,6 +31,9 @@ else
         	d = e + 6.0;
         	b = a + c;
 }
+
+
+
 Output:
 Keywords: int, float, if, else
 Identifiers: a, b, c, d, e
